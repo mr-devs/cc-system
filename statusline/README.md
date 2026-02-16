@@ -2,6 +2,8 @@
 
 A custom statusline script for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that displays real-time usage information directly in the terminal.
 
+Reference: https://alexop.dev/posts/customize_claude_code_status_line/
+
 ## What it shows
 
 - **Model** — the active Claude model name
